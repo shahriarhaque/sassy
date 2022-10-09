@@ -1,3 +1,3 @@
-# sassy
+# Sassy
 
-A description of this package.
+SwiftUI Component Library
